@@ -1,0 +1,15 @@
+E:\C#Proyectos\Login\bin\Debug\Login.exe.config
+E:\C#Proyectos\Login\bin\Debug\Login.exe
+E:\C#Proyectos\Login\bin\Debug\Login.pdb
+E:\C#Proyectos\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\C#Proyectos\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+E:\C#Proyectos\Login\obj\Debug\Login.Form1.resources
+E:\C#Proyectos\Login\obj\Debug\Login.Properties.Resources.resources
+E:\C#Proyectos\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\C#Proyectos\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\C#Proyectos\Login\obj\Debug\Login.exe
+E:\C#Proyectos\Login\obj\Debug\Login.pdb
+E:\C#Proyectos\Login\bin\Debug\MySql.Data.dll
+E:\C#Proyectos\Login\bin\Debug\System.Memory.dll
+E:\C#Proyectos\Login\bin\Debug\System.Buffers.dll
+E:\C#Proyectos\Login\obj\Debug\Login.csproj.CopyComplete
